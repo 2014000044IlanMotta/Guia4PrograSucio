@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\bin\Debug\net10.0-windows\Problema2_IlanMotta.exe
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\bin\Debug\net10.0-windows\Problema2_IlanMotta.deps.json
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\bin\Debug\net10.0-windows\Problema2_IlanMotta.runtimeconfig.json
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\bin\Debug\net10.0-windows\Problema2_IlanMotta.dll
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\bin\Debug\net10.0-windows\Problema2_IlanMotta.pdb
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.Form1.resources
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.AssemblyInfo.cs
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.dll
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\refint\Problema2_IlanMotta.dll
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.pdb
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\Problema2_IlanMotta.genruntimeconfig.cache
+C:\Users\LABORATORIO\source\repos\Problema2_IlanMotta\Problema2_IlanMotta\obj\Debug\net10.0-windows\ref\Problema2_IlanMotta.dll
